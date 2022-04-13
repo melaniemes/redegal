@@ -1,5 +1,5 @@
 # redegal
 
-Se utiliza la versión de node v14.18.3.
+Es necesario ejecutar npm install para instalar las dependencias necesarias.
 
-Se debe ejecutar el comando npm run serve
+Luego ejecutar el comando npm run serve
