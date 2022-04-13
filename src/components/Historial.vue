@@ -65,6 +65,7 @@ export default class Historial extends Vue {
   };
 
   getHistorical(): void {
+    this.historicalData = [];
     let date = new Date();
     let endDate = "";
     let day = date.getUTCDate();
